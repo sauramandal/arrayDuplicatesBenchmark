@@ -1,2 +1,0 @@
-# arrayDuplicatesBenchmark
-Created with CodeSandbox
